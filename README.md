@@ -1,9 +1,7 @@
 # 🌟 About Me:
 👨‍💻 Full-Stack Web Developer  
-🎨 Designer & UI/UX Enthusiast  
-📈 Trader | 🚀 Entrepreneur  
-💡 Electronic Developer & Maker  
 📚 Lifelong Learner | Student
+🎨 Designer 
 
 
 ## 🌐 Socials:
