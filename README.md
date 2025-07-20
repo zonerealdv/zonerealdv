@@ -1,7 +1,6 @@
 # 🌟 About Me:
 👨‍💻 Full-Stack Web Developer  
 📚 Lifelong Learner | Student
-🎨 Designer 
 
 
 ## 🌐 Socials:
