@@ -42,6 +42,6 @@
 
 <p align="center">
   <a href="https://discord.com/users/690587702688743455">
-    <img src="https://lanyard.cnrad.dev/api/zonereal?theme=dark&borderRadius=10px" />
+    <img src="https://lanyard.cnrad.dev/api/690587702688743455?theme=dark&borderRadius=10px" />
   </a>
 </p>
