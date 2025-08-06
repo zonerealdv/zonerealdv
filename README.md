@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00008B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+ZoneReal+%F0%9F%91%8B;Discord+Bot+Developer;Discord+Bot+Geli%C5%9Ftiricisi">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00008B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+ZoneReal+%F0%9F%91%8B;Discord+Bot+Developer;Discord+Bot+Geli%C5%9Ftiricisi">
 </p>
 
 
