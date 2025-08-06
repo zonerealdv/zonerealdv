@@ -1,4 +1,4 @@
-<img width="74" height="98" alt="image" src="https://github.com/user-attachments/assets/cb661680-5d17-46cc-b5da-8e857335d6ba" /><p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00008B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+ZoneReal+%F0%9F%91%8B;Discord+Bot+Developer;Discord+Bot+Geli%C5%9Ftiricisi">
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/690587702688743455" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=discord" width="50" />
   </a>
 </p>
 
