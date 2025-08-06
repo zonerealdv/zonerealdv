@@ -37,7 +37,7 @@
 </p>
 
 
-### 💬 Discord Status
+<h2 align="center">💬 Discord Status</h2>
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/690587702688743455?theme=dark&bg=000000&animated=true&hideDiscriminators=false&borderRadius=20px" alt="Discord Status" />
