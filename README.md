@@ -38,12 +38,3 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonerealdv&layout=compact&theme=tokyonight" alt="langs" />
 </p>
-
-
-<h2 align="center">💬 Discord</h2>
-
-<p align="center">
-  <a href="https://discord.com/users/690587702688743455">
-    <img src="https://img.shields.io/badge/ZoneReal%20%7C%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
