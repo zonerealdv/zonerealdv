@@ -36,7 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonerealdv&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
----
 
 <h3 align="center">🎮 Discord Status</h3>
 
