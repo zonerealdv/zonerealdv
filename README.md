@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+ZoneReal.;Full+Stack+Web+Developer.;Discord+Bot+Geliştiricisi.;Teknoloji+Meraklısı+%F0%9F%94%8E" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+ZoneReal!;Discord+Bot+Geliştiricisi.;Full+Stack+Developer.">
 </p>
 
 <p align="center">
