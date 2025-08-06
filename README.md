@@ -1,4 +1,4 @@
-<p align="center">
+<img width="74" height="98" alt="image" src="https://github.com/user-attachments/assets/cb661680-5d17-46cc-b5da-8e857335d6ba" /><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00008B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+ZoneReal+%F0%9F%91%8B;Discord+Bot+Developer;Discord+Bot+Geli%C5%9Ftiricisi">
 </p>
 
@@ -11,10 +11,11 @@
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://discord.com/users/zonerealdv" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/690587702688743455" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" height="40" />
   </a>
 </p>
+
 
 
 <h3 align="center">💻 Tech Stack</h3>
