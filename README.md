@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=mehmetofical&label=Profile%20views&color=0e75b6&style=flat" alt="zonereal" />
 </p>
 
----
 
 ### 🌐 Connect With Me
 <p align="left">
@@ -19,7 +18,6 @@
   </a>
 </p>
 
----
 
 ### 💻 Tech Stack
 <p align="left">
@@ -33,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
 </p>
 
----
 
 ### 🔧 Development Tools
 <p align="left">
@@ -46,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 
@@ -58,11 +54,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonerealdv&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
 
 ### 🕹️ Discord Status
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/690587702688743455)](https://discord.com/users/690587702688743455)
+[![Discord Presence](https://lanyard.cnrad.dev/api/your_discord_id)](https://discord.com/users/690587702688743455)
 
 ---
 
