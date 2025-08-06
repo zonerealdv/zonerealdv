@@ -37,8 +37,10 @@
 </p>
 
 
-<h2 align="center">💬 Discord Status</h2>
+<h2 align="center">💬 Discord</h2>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/690587702688743455?theme=dark&bg=000000&animated=true&hideDiscriminators=false&borderRadius=20px" alt="Discord Status" />
+  <a href="https://discord.com/users/690587702688743455">
+    <img src="https://img.shields.io/badge/ZoneReal%20%7C%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
